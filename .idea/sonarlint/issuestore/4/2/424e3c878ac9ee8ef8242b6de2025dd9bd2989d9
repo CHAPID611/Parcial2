@@ -1,0 +1,9 @@
+
+7
+java:S1220""Move this file to a named package.8όΣ’έσ1
+\
+java:S3518 ":Make sure "cont" can't be zero before doing this division.(τΎ©¶όÿÿÿÿ8’Τ’έσ1
+G	java:S106)"+Replace this use of System.out by a logger.(¥έΎΩ8™Τ’έσ1
+L	java:S106*"+Replace this use of System.out by a logger.(„ÿξωÿÿÿÿ8Τ’έσ1
+L	java:S106+"+Replace this use of System.out by a logger.(δΐΡζψÿÿÿÿ8›Τ’έσ1
+G	java:S106,"+Replace this use of System.out by a logger.(ϊ•€Λ8›Τ’έσ1
